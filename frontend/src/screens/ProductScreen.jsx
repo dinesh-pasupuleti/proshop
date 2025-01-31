@@ -1,6 +1,5 @@
 import React from 'react'
 import { useParams } from 'react-router-dom'
-import products from '../products'
 import { Link } from 'react-router-dom'
 import {Row, Col, Image, ListGroup, Card,Button, ListGroupItem} from 'react-bootstrap'
 import Rating from '../components/Rating'
